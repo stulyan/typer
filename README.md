@@ -1,5 +1,5 @@
 # typer
-A python script that types text character by character into software monitoring manual typing, with unicode, formatting, and randomized delays. Useful if you need to hide that you pasted something into a document lol
+A python script that types text character by character into software monitoring manual typing, with unicode, formatting, and randomized delays. Useful if you need to hide that you pasted something into a document.
 A simple python script that types text from `Text.txt` character by character into the active window.
 As mentioned above, the script can help bypass protection based on version history. To start typing, place the cursor where you want the text to appear and run the script.
 
